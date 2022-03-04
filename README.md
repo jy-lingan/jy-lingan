@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @jy-lingan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 📝 About me
+## - 👋 Hi, I’m @jy-lingan
+## - 📚 I’m a student of the fullstack web developer
+## - 📍 I’m from Lima, Peru
 
-<!---
-jy-lingan/jy-lingan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Stack
+
+# 📝 Skills
+## - 💻 Frontend: HTML, CSS, JavaScript, React, Redux, Bootstrap
+## - 🖥 Backend: Node.js, Express, MySQL, PostgreSQL, Django
+
+# 📝 Projects
+## - 📚 [My portfolio](https://jy-lingan.github.io/portfolio/)
+## - 📚 [My resume](https://jy-lingan.github.io/resume/)
+## - 📚 [My blog](https://jy-lingan.github.io/blog/)
+
+# 📝 Contact
+## - 📞 +51 994 977 012
+## - 📧 jimmy.lingan@outlook.com
+
+    
+    []: # Language: markdown
+    []: # Path: resume.md
+
+
+
